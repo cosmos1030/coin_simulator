@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter, FixedLocator
+import koreanize_matplotlib
 
 
 ScalarFormatter().set_scientific(False)
