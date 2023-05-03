@@ -9,5 +9,5 @@ setup(
     author_email='vitainu0104@unist.ac.kr',
     packages=['cosi'],
     zip_safe=False,
-    install_requires=['pyupbit']
+    install_requires=['pyupbit', 'koreanize-matplotlib', 'pandas', 'numpy']
 )
