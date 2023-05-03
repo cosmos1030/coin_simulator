@@ -9,5 +9,5 @@ setup(
     author_email='vitainu0104@unist.ac.kr',
     packages=['cosi'],
     zip_safe=False,
-    install_requires=[]
+    install_requires=['pyupbit']
 )
